@@ -1,0 +1,12 @@
+Input:
+A list of events
+Process:
+Initialize a list of  events
+Allow users to add events to the event list
+Display a list of events with the newly added events
+Allow users to remove events from the event list if the event specified is in the list and the list of events is not empty as well.
+Display events without the removed items.
+Allow users to get events from the event lists if the specified event exists in the list.
+Display events retrieved by the user
+Output:
+A list of events.
